@@ -1,0 +1,26 @@
+{
+  "name": "taobaoscreenshots",
+  "version": "1.0.0",
+  "description": "将淘宝商品宝贝详情截图",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noshower/TaobaoScreenshots.git"
+  },
+  "keywords": [
+    "screenshots",
+    "taobao"
+  ],
+  "author": "noshower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noshower/TaobaoScreenshots/issues"
+  },
+  "homepage": "https://github.com/noshower/TaobaoScreenshots#readme",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
+}
