@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/noshower/TaobaoScreenshots#readme",
   "dependencies": {
+    "opn": "^5.2.0",
     "puppeteer": "^1.0.0"
   }
 }
